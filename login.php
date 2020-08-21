@@ -79,7 +79,7 @@
     <div class="mdk-drawer-layout js-mdk-drawer-layout" data-push data-responsive-width="992px">
         <div class="mdk-drawer-layout__content page-content">
 
-          
+
 
             <div class=" pt-32pt pt-sm-64pt pb-32pt">
 
@@ -90,10 +90,10 @@
                             <img class="sidebar-brand-icon" src="assets/images/logo/accent-teal-100@2x.png" alt="Ortorbox">
                             <h2>Ortorbox</h2>
                         </a>
-                   </div> 
+                   </div>
 
                     <div class="card" style="padding: 20px">
-                            
+
                         <form action="http://localhost:8012/erp" class="col-md-5 p-0 mx-auto">
                             <div class="form-group">
                                 <label class="form-label" for="email">Email:</label>
